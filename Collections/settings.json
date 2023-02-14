@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "63e93c0c982c9904fb5f22eb"
+  },
+  "description": "Site Description",
+  "facebook": "https://www.facebook.com",
+  "instagram": "https://www.instagram.com",
+  "keywords": "Site, Keywords",
+  "link": "http://localhost:8000",
+  "logo": "/public/images/example-logo-png-1.png",
+  "title": "Site Title",
+  "twitter": "https://www.twitter.com"
+}]
